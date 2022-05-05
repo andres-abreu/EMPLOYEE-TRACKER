@@ -1,0 +1,19 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ## FOR THE TABLE OF THE CONTENTS. * Description * Installation/running-instructions * Demonstration * Image-preview * Function ## DESCRIPTION",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres-abreu/EMPLOYEE-TRACKER.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andres-abreu/EMPLOYEE-TRACKER/issues"
+  },
+  "homepage": "https://github.com/andres-abreu/EMPLOYEE-TRACKER#readme"
+}

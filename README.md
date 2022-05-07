@@ -2,7 +2,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## IMAGE-PREVIEW!
-[Screen Shot 2022-05-06 at 10 33 18 PM](https://user-images.githubusercontent.com/94572199/167234843-d352fe74-0835-4121-95e3-602192697516.png)
+![employee-tracker-pic](https://user-images.githubusercontent.com/94572199/167235176-14a78262-8618-4f10-b683-2585c4b38c1b.png)
+
 
 ## FOR THE TABLE OF THE CONTENTS.
 * Description

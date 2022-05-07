@@ -7,10 +7,9 @@
 
 ## FOR THE TABLE OF THE CONTENTS.
 * Description
-* Installation/running-instructions
+* Installation-instructions
 * Demonstration
 * Image-preview
-* Function
 
 ## DESCRIPTION
 For this EMPLOYEE-TRACKER is a command-line-application in which aids or helps a company's departments, employees & related data in a database using Node.js, Inquirer & MySQL.

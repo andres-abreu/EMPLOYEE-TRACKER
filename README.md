@@ -14,7 +14,7 @@
 ## DESCRIPTION
 For this EMPLOYEE-TRACKER is a command-line-application in which aids or helps a company's departments, employees & related data in a database using Node.js, Inquirer & MySQL.
 
-## INSTALLATION-INSTRUCTIONS.
+## INSTALL/RUN-DIRECTIONS
 1. Clone the repository
 2. Install the dependencies by typing & running **npm install** in your terminal.
 3. Type & run **node index.js** in your terminal to begin the prompts.

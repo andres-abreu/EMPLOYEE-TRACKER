@@ -12,6 +12,15 @@
 * Image-preview
 
 ## DESCRIPTION
+
+<div>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+  </br>
+  </br>
+ </div>
+ 
 For this EMPLOYEE-TRACKER is a command-line-application in which aids or helps a company's departments, employees & related data in a database using Node.js, Inquirer & MySQL.
 
 ## INSTALL/RUN-DIRECTIONS
@@ -23,3 +32,9 @@ For this EMPLOYEE-TRACKER is a command-line-application in which aids or helps a
 
 ## DEMONSTRATION
 https://user-images.githubusercontent.com/94572199/167234904-1366ccee-49cc-4a72-abb1-aa8f52bb74e5.mov
+
+<div id="badges">
+  <br/>
+  <br/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" alt="GH-count"/>
+  </div>

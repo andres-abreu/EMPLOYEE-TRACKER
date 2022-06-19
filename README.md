@@ -21,7 +21,7 @@
   </br>
  </div>
  
-For this EMPLOYEE-TRACKER is a command-line-application in which aids or helps a company's departments, employees & related data in a database using Node.js, Inquirer & MySQL.
+* For this EMPLOYEE-TRACKER is a command-line-application in which aids or helps a company's departments, employees & related data in a database using Node.js, Inquirer & MySQL.
 
 ## INSTALL/RUN-DIRECTIONS
 1. Clone the repository
